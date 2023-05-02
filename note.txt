@@ -1,0 +1,29 @@
+OTMS =>
+1. a website containing home page, about page, training category, all training page, training details page,contact us
+page, enroll page, login/registration page, student dashboard.
+
+2. an admin panel where secure login system, admin can create and manage teacher,create category, admin can approve teachers course aslo select offer price,
+admin manage student registration, admin create and manage another admin. admin manage student.
+
+3. a teacher panel where secure login system, teacher can create course,manage course teacher can see student course registration
+and it's status.
+
+4. a student panel where secure login system, student can see their course registration and payment status.
+
+provider -> app service provide a boot a kno variable use krle sob page a pabe.
+
+foreach($courses as $course)
+adike $courses holo collection object $course hocche single objective
+
+APi/ rest api
+---------------
+aguli hocche bahirer kno website theke data ba view anad prodan kore...
+
+rest api holo sudu data anadprodan kore.
+api hocche data and view anad pordan kore.
+
+middleware -> is a guard. it is a class.. cmd => php artisan make:middleware
+3 ta part middleware er
+1. create. 2. register
+
+ekta student onk guli course a enroll krte pare tai course er sathe student model er relationship hobe hasmany.
