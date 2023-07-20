@@ -1,4 +1,4 @@
-# Student Management System With Raw PHP
+# Online Traning Management System With Raw PHP
 
 ## Project Descriptions
 
