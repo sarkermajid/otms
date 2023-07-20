@@ -15,8 +15,8 @@ The Admin role in the system is responsible for managing student-related tasks. 
 2. Add New Course: Teachers have the privilege to create and add new courses to the system, providing essential details about the course's name, content, and objectives.
 3. Offer Course: Teachers can make their created courses available for students by offering them. This action enables students to enroll and participate in the course.
 
-##Students
+##Student
 The Students' role involves tasks related to accessing their personal information. They have the following capability:
 1. Search and View Information: Students can search for their specific details within the system using their department and roll number. This search functionality allows them to retrieve their relevant information, including their name, email address, roll number, and department.
-2. 
+
 The system is designed to facilitate efficient management of student data, enable course creation and enrollment, and provide students with easy access to their personal records. The clear segregation of roles ensures that each user can perform their respective tasks without compromising the system's integrity.
